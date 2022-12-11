@@ -1,8 +1,7 @@
 {
-  "name": "@skillful/prettier-config",
-  "description": "Skillful's Prettier config.",
+  "name": "@the-commons/prettier-config",
+  "description": "The Common's Prettier config.",
   "author": "",
   "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT"
+  "main": "index.js"
 }
